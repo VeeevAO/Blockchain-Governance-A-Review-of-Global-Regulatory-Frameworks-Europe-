@@ -124,5 +124,6 @@ As we move forward, the emphasis shifts from merely understanding the existing r
 ---
 
 ### Navigate
-- ← Previous: [Part 3 — M–R](/parts/part-3-m-r.html)
-- Series Hub: [/index.html](/index.html)
+- ← Previous: [Part 3 — M–R]({{ site.baseurl }}/parts/part-3-m-r.html)
+- [Series Hub]({{ site.baseurl }}/index.html)
+

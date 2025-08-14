@@ -206,5 +206,6 @@ In contrast, significant markets like the UK and Switzerland, along with numerou
 ---
 
 ### Navigate
-- Series Hub: [/index.html](/index.html)
-- Next: [Part 2 — G–L](/parts/part-2-g-l.html) →
+- [Series Hub]({{ site.baseurl }}/index.html)
+- Next: [Part 2 — G–L]({{ site.baseurl }}/parts/part-2-g-l.html) →
+

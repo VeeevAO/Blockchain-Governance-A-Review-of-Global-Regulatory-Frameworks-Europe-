@@ -81,8 +81,11 @@ All activities require consistent valuation and a six-year recordkeeping period.
 - Virtual Financial Assets Act ([2018](https://legislation.mt/eli/act/2018/30/eng/pdf)) establishes Malta’s regulatory framework for crypto-assets by defining Virtual Financial Assets (VFAs), regulating initial offerings (ICOs), and requiring service providers such as exchanges, wallet providers, and advisors to be licensed and supervised by the MFSA.
 ---
 
+---
 ### Navigate
+- [Home]({{ site.url }}/)
 - ← Previous: [Part 1 — A–F (incl. Intro & EU)]({{ site.baseurl }}/parts/part-1-a-f-(incl.-intro-and-eu).html)
 - [Series Hub]({{ site.baseurl }}/index.html)
 - Next: [Part 3 — M–R]({{ site.baseurl }}/parts/part-3-m-r.html) →
+
 

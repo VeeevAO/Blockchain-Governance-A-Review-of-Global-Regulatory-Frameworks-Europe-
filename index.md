@@ -1,10 +1,7 @@
 ---
-title: "Blockchain Governance: A Review of Global Regulatory Frameworks (Europe)"
+title: "Blockchain Governance (Europe) — Contents"
 layout: page
 ---
-
-> This build preserves **all standard Word hyperlinks** (external links and internal anchors).
-
 ## Parts
 - [Part 1 — A–F (incl. Intro & EU)](/parts/part-1-a-f-(incl.-intro-and-eu).html)
 - [Part 2 — G–L](/parts/part-2-g-l.html)

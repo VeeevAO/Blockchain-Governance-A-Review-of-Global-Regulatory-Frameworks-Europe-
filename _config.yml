@@ -5,3 +5,5 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+url: "https://veeevao.github.io"
+baseurl: "/Blockchain-Governance-A-Review-of-Global-Regulatory-Frameworks-Europe-"

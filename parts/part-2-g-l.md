@@ -82,6 +82,7 @@ All activities require consistent valuation and a six-year recordkeeping period.
 ---
 
 ### Navigate
-- ← Previous: [Part 1 — A–F (incl. Intro & EU)](/parts/part-1-a-f-(incl.-intro-and-eu).html)
-- Series Hub: [/index.html](/index.html)
-- Next: [Part 3 — M–R](/parts/part-3-m-r.html) →
+- ← Previous: [Part 1 — A–F (incl. Intro & EU)]({{ site.baseurl }}/parts/part-1-a-f-(incl.-intro-and-eu).html)
+- [Series Hub]({{ site.baseurl }}/index.html)
+- Next: [Part 3 — M–R]({{ site.baseurl }}/parts/part-3-m-r.html) →
+

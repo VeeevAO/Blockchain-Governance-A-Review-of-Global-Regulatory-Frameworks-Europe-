@@ -2,6 +2,7 @@
 title: "Blockchain Governance (Europe) — Contents"
 layout: page
 ---
+[← Back to Home]({{ site.url }}/)
 ## Parts
 - [Part 1 — A–F (incl. Intro & EU)]({{ site.baseurl }}/parts/part-1-a-f-(incl.-intro-and-eu).html)
 - [Part 2 — G–L]({{ site.baseurl }}/parts/part-2-g-l.html)

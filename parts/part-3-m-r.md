@@ -94,6 +94,7 @@ layout: page
 ---
 
 ### Navigate
-- ← Previous: [Part 2 — G–L](/parts/part-2-g-l.html)
-- Series Hub: [/index.html](/index.html)
-- Next: [Part 4 — S–Z](/parts/part-4-s-z.html) →
+- ← Previous: [Part 2 — G–L]({{ site.baseurl }}/parts/part-2-g-l.html)
+- [Series Hub]({{ site.baseurl }}/index.html)
+- Next: [Part 4 — S–Z]({{ site.baseurl }}/parts/part-4-s-z.html) →
+

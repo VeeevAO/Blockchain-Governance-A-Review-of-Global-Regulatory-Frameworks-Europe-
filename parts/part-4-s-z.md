@@ -123,7 +123,10 @@ The regulatory frameworks governing blockchain-related activities in Europe are 
 As we move forward, the emphasis shifts from merely understanding the existing rules to considering their enforcement. Some countries have demonstrated practical implementation of these laws through legal cases, sanctions, and licensing, as showcased in this article. The next instalment of this series will explore the regulatory outlook of another key region. What is evident is that the global regulatory picture for blockchain-related activities is just beginning to take shape, and the story is far from over.
 ---
 
+---
 ### Navigate
+- [Home]({{ site.url }}/)
 - ← Previous: [Part 3 — M–R]({{ site.baseurl }}/parts/part-3-m-r.html)
 - [Series Hub]({{ site.baseurl }}/index.html)
+
 

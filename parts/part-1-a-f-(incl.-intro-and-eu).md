@@ -205,7 +205,11 @@ In contrast, significant markets like the UK and Switzerland, along with numerou
 - Notable case: In response to this law, [Revolut](https://help.revolut.com/hu-HU/help/crypto/question-crypto-hungary-pausing-services-retail/) paused its crypto services in Hungary in July 2025.
 ---
 
+---
+
 ### Navigate
+- [Home]({{ site.url }}/)
 - [Series Hub]({{ site.baseurl }}/index.html)
 - Next: [Part 2 — G–L]({{ site.baseurl }}/parts/part-2-g-l.html) →
+
 

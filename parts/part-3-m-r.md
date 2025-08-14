@@ -93,8 +93,11 @@ layout: page
 - [Federal Law No. 115-FZ](https://normativ.kontur.ru/document?documentId=493009&moduleId=1), enacted on 07.08.2001, is Russia’s AML/CFT law. This law has undergone various amendments up to 2025, categorising digital currency as property and integrating crypto-related activities—including issuance, exchange, and mining—into its regulatory framework. It designates crypto operators, such as DFA issuers, exchanges, and mining pool organisers, as obligated entities, requiring them to implement mandatory KYC measures, internal controls, transaction monitoring, and suspicious activity reporting. Furthermore, it empowers the Federal Service for Financial Monitoring (Rosfinmonitoring – Федеральная служба по финансовому мониторингу) to maintain blacklists of suspicious blockchain addresses, authorise wallet freezes, and enforce due diligence on crypto-related cross-border payments.
 ---
 
+---
 ### Navigate
+- [Home]({{ site.url }}/)
 - ← Previous: [Part 2 — G–L]({{ site.baseurl }}/parts/part-2-g-l.html)
 - [Series Hub]({{ site.baseurl }}/index.html)
 - Next: [Part 4 — S–Z]({{ site.baseurl }}/parts/part-4-s-z.html) →
+
 
